@@ -1,4 +1,4 @@
-# Weather-Application
+# Weather-Application 🌦
 
 ## Table of contents
 * [General info](#general-info)
